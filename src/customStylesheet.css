@@ -1,0 +1,12 @@
+body {
+    background-color: dodgerblue;
+    border: 2px solid black;
+    font-family: courier;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  img {
+    padding: 20px;
+  }
