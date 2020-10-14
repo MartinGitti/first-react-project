@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+<b>Before you are albe to run this ptoject in the browser, it is essential to install the node-modules first:</b>
+<p>Run "npm i" |or| "npm install" in the terminal or command line interface to install node-modules.</p>
+<p>After the node-modules are installed, the app should be good to run in thye browser using the start instructions below.</p>
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -66,3 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<hr/>
+
+<span>Happy Coding :sunglasses:</span>
